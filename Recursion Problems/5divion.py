@@ -10,3 +10,4 @@ def countFactors (n):
 
 cf = countFactors(5)
 print(cf)
+print(len(cf))
