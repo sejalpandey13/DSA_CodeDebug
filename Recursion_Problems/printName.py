@@ -10,4 +10,4 @@ def printName(n):
     count+=1
     printName(n)
 
-printName(10)
+printName(5)
