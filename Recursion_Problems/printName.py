@@ -1,5 +1,5 @@
 # Print name n times using recursion
-# This is head recursion
+# This is head recursion type of recursion as the recursive call is made at the end of the function
 
 count=0
 def printName(n):
